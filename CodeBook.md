@@ -1,7 +1,7 @@
 ## Code Book for run_analysis.R script
 ### Source Data
-* Full description of main source data set can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
-* Data used in script run_analysis.R can be found at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
+* Full description of main source data set can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+* Data used in script run_analysis.R can be found at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 ### Variables information
 * features: data read from features.txt
 * activity_labels: data read from activity_labels.txt

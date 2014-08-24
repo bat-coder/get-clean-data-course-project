@@ -94,7 +94,7 @@ colnames(final_data_set) = columns
 
 # Create a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-# Create a new table without the activityType column
+# Create a new table without the activity-name column
 final_data_set_without_activity = final_data_set[,names(final_data_set) != "activity_name"]
 
 #create tidy data set
